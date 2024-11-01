@@ -274,8 +274,8 @@ If you think this is a way to go [google "captcha resolve api"](https://letmegoo
 
 ## Support 
 
-If you have problems with scraping specific website, write me a short email at `dniespodziany@gmail.com`. Let's have a quick tête-à-tête consultation via Skype 😊.
+If you have problems with scraping specific website, write me a short email at `wfeng7857@gmail.com`. Let's have a quick tête-à-tête consultation via Skype 😊.
 
 Have I mentioned a ⭐ would be appreciated? :-) 
 
-➡️ Ethereum address `0x380a4b41fB5e0e1EB8c616eBD56f62f8F934Bab6`
+➡️ Ethereum address `0x9C12c93C4A0908845e75f5B2160D9304c56C3B4E`
